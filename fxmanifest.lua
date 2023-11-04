@@ -15,7 +15,7 @@ fx_version 'cerulean'
 game 'gta5'
 author '<Discord : AlertX>, <Website : Not >'
 description 'This resource is created by BABYSHOP\'s Scripts'
-version '1.1.1'
+version '1.0.8'
 
 shared_scripts {
 	'config/general.setting.lua',
