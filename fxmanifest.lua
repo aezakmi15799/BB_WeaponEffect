@@ -15,8 +15,7 @@ fx_version 'cerulean'
 game 'gta5'
 author '<Discord : AlertX>, <Website : Not >'
 description 'This resource is created by BABYSHOP\'s Scripts'
-github 'https://github.com/clementinise/kc-unicorn'
-version '1.2'
+version '1.8'
 
 shared_scripts {
 	'config/general.setting.lua',
