@@ -31,4 +31,4 @@ server_scripts {
 	'source/server/main-server.lua',
 }
 
-fivem_checker 'yes'
+BABYSHOP_checker 'yes'
