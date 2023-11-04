@@ -16,7 +16,7 @@ game 'gta5'
 author '<Discord : AlertX>, <Website : Not >'
 description 'This resource is created by BABYSHOP\'s Scripts'
 github 'https://github.com/clementinise/kc-unicorn'
-version '1.1'
+version '1.2'
 
 shared_scripts {
 	'config/general.setting.lua',
